@@ -1,0 +1,8 @@
+LICENSE:
+- You can use the Elemental Zone Asset Pack’s assets for both commercial and personal projects.
+- You cannot resell or redistribute the Elemental Zone Asset Pack’s assets.
+- You can modify the Elemental Zone Asset Pack’s assets to better fit your projects.
+- You cannot modify the Elemental Zone Asset Pack’s assets for resell or redistribution.
+- You can use the Elemental Zone Asset Pack’s assets in a group project. -- NOTE: Only one person has to own the asset, not everyone.
+- You cannot share the Elemental Zone Asset Pack’s assets.
+- You cannot sell a project file that uses the Elemental Zone Asset Pack’s assets.  
